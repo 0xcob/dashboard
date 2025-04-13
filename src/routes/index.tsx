@@ -32,11 +32,11 @@ export default function AppRouter() {
           index: true
         },
         {
-          path: 'student',
+          path: 'users',
           element: <StudentPage />
         },
         {
-          path: 'student/details',
+          path: 'users/details',
           element: <StudentDetailPage />
         },
         {

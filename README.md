@@ -7,7 +7,7 @@
 <div align="center">Built with the Vite + React Ts</div>
 <br />
 <div align="center">
-<a href="https://react-shadcn-dashboard-starter.vercel.app/">View Demo</a>
+<a href="https://port-dashboard-eight.vercel.app/">View Demo</a>
 <span>
 </div>
 
@@ -33,7 +33,7 @@ This is a starter template using the following stack:
 | :--------------------------------------------------------------------- | :------------------------------------------------------------------------------- |
 | [Signup](https://react-shadcn-dashboard-starter.vercel.app/login)      | Custom auth.                                                                     |
 | [Dashboard](https://react-shadcn-dashboard-starter.vercel.app/)        | Cards with recharts graphs for analytics with dark mode ✅.                      |
-| [Students](https://react-shadcn-dashboard-starter.vercel.app/students) | Tanstack tables with students details with server side searching, pagination etc |
+| [Students](https://react-shadcn-dashboard-starter.vercel.app/users)    | Tanstack tables with users details with server side searching, pagination etc |
 | [404](https://react-shadcn-dashboard-starter.vercel.app/404)           | Not Found Page                                                                   |
 | -                                                                      | -                                                                                |
 
@@ -41,7 +41,7 @@ This is a starter template using the following stack:
 
 Follow these steps to clone the repository and start the development server:
 
-- `git clone https://github.com/Kiranism/react-shadcn-dashboard-starter.git`
+- `git clone https://github.com/0xcob/dashboard.git`
 - `npm install`
 - `npm run dev`
 
